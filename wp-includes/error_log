@@ -1,0 +1,2 @@
+[25-Apr-2010 23:00:12] PHP Fatal error:  Call to undefined function  add_action() in /home/staub2/public_html/blog/wp-includes/canonical.php on line 343
+[12-May-2010 02:51:26] PHP Fatal error:  Call to undefined function  add_action() in /home/staub2/public_html/blog/wp-includes/canonical.php on line 343
